@@ -43,3 +43,9 @@ QML 效果图如下：
 
 ---
 
+2015.12.19
+
+[path for iOS设计细节赏析](http://www.ui.cn/detail/82933.html)
+
+决定折腾一下这个了。
+
