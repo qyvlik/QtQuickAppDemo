@@ -49,3 +49,14 @@ QML 效果图如下：
 
 决定折腾一下这个了。
 
+2015.12.29
+
+算是折腾一个了吧。但是严格来说更像是实现一个 `layer.js` 呢。
+
+项目 [Sparrow.PopuopItem](https://github.com/GDPURJYFS/Sparrow/tree/master/qml/Sparrow/PopupLayer)
+
+效果图如下吧。
+
+![](images/2015-12-29.gif)
+
+可能还要继续填坑吧。
