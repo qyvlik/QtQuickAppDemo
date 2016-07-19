@@ -60,3 +60,20 @@ QML 效果图如下：
 ![](images/2015-12-29.gif)
 
 可能还要继续填坑吧。
+
+---
+
+其他有趣的示例
+
+## Simple QML Gallery(Test)
+
+> 图片浏览器，有出场和退场效果
+
+[MidoriYakumo/qml-simpleimageviewer](https://github.com/MidoriYakumo/qml-simpleimageviewer)
+
+## MidoriYakumo/qml-shader-plot
+
+> 使用 GLSL 制作的函数绘线
+
+[MidoriYakumo/qml-shader-plot](https://github.com/MidoriYakumo/qml-shader-plot)
+
