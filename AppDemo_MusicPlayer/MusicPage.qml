@@ -273,8 +273,13 @@ Rectangle {
             id: playBar
             musicImage: root.musicImage
             onPlaybackStateChanged: {
-                singer_image_rotaion_animation.running =
-                        !singer_image_rotaion_animation.running;
+                if(singer_image_rotaion_animation.running) {
+                    singer_image_rotaion_animation.paused =
+                            !singer_image_rotaion_animation.paused;
+                } else {
+                    singer_image_rotaion_animation.running =
+                            !singer_image_rotaion_animation.running
+                }
             }
         }
 
