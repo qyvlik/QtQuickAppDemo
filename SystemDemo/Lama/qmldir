@@ -1,0 +1,9 @@
+# Lama
+module Lama
+
+Phone                   1.0     Phone.qml
+PhoneScreenPage         1.0     PhoneScreenPage.qml
+ApplicationIcon         1.0     ApplicationIcon.qml
+Tracker                 1.0     Tracker.qml
+TimeLabel               1.0     TimeLabel.qml
+ApplicationView         1.0     ApplicationView.qml
