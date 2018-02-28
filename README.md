@@ -83,3 +83,8 @@ QML 效果图如下：
 
 [MidoriYakumo/qml-shader-plot](https://github.com/MidoriYakumo/qml-shader-plot)
 
+## Furkanzmc/QML-UI-Animations
+
+> 
+
+[Furkanzmc/QML-UI-Animations](https://github.com/Furkanzmc/QML-UI-Animations)
