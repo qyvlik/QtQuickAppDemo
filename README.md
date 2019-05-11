@@ -81,7 +81,7 @@ QML 效果图如下：
 
 > 使用 GLSL 制作的函数绘线
 
-[MidoriYakumo/qml-shader-plot](https://github.com/MidoriYakumo/qml-shader-plot)
+[MidoriYakumo/ShaderPlot](https://github.com/MidoriYakumo/ShaderPlot)
 
 ## Furkanzmc/QML-UI-Animations
 
